@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//lokmanulusoy.github.io/e-ticaret/static/css/main.e41c03d2.css",
+    "main.js": "/https//lokmanulusoy.github.io/e-ticaret/static/js/main.444a5f7e.js",
+    "index.html": "/https//lokmanulusoy.github.io/e-ticaret/index.html",
+    "main.e41c03d2.css.map": "/https//lokmanulusoy.github.io/e-ticaret/static/css/main.e41c03d2.css.map",
+    "main.444a5f7e.js.map": "/https//lokmanulusoy.github.io/e-ticaret/static/js/main.444a5f7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e41c03d2.css",
+    "static/js/main.444a5f7e.js"
+  ]
+}
