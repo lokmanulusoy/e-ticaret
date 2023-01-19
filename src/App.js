@@ -1,9 +1,13 @@
 import React from "react";
-import Card  from "./pages/Card"
+import Home from "./pages/Home";
+
 function App() {
-  return <div>
-    <Card/>
-  </div>;
+  return (
+    <div className="App">
+      <Home/>
+
+    </div>
+  );
 }
 
 export default App;
