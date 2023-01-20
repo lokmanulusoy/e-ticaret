@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/https//lokmanulusoy.github.io/projem/static/css/main.e41c03d2.css",
-    "main.js": "/https//lokmanulusoy.github.io/projem/static/js/main.444a5f7e.js",
-    "index.html": "/https//lokmanulusoy.github.io/projem/index.html",
-    "main.e41c03d2.css.map": "/https//lokmanulusoy.github.io/projem/static/css/main.e41c03d2.css.map",
-    "main.444a5f7e.js.map": "/https//lokmanulusoy.github.io/projem/static/js/main.444a5f7e.js.map"
+    "main.css": "/e-ticaret/static/css/main.e41c03d2.css",
+    "main.js": "/e-ticaret/static/js/main.7a2dba64.js",
+    "index.html": "/e-ticaret/index.html",
+    "main.e41c03d2.css.map": "/e-ticaret/static/css/main.e41c03d2.css.map",
+    "main.7a2dba64.js.map": "/e-ticaret/static/js/main.7a2dba64.js.map"
   },
   "entrypoints": [
     "static/css/main.e41c03d2.css",
-    "static/js/main.444a5f7e.js"
+    "static/js/main.7a2dba64.js"
   ]
 }
