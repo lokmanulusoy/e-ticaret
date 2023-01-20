@@ -21,13 +21,15 @@ function Navbar() {
         </div>
         {/* sağ */}
         <div className="right flex flex-1 items-center justify-end mobile:justify-center mobile:flex-[2]">
-          <div className={style}>Kayıt Ol</div>
-          <div className={style}>Giriş Yap</div>
+          <a href="/register" className={style}>Kayıt Ol</a>
+          <a href="/login" className={style}>Giriş Yap</a>
+          <a href="/card">
           <div className={style}>
-            <Badge badgeContent={4} color="primary">
-              <ShoppingCartOutlinedIcon color="action" />
+            <Badge badgeContent={2} color="primary">
+              <ShoppingCartOutlinedIcon  color="action" />
             </Badge>
           </div>
+          </a>
         </div>
       </div>
     </div>

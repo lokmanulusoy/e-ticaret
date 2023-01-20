@@ -10,7 +10,7 @@ function Card() {
       <Announce />
       <Navbar />
       <div className="p-5">
-        <div className="flex justify-center text-5xl ">Cart</div>
+        <div className="flex justify-center text-5xl ">Sepetim</div>
         <div className="flex items-center justify-between mt-4 ">
           <button className="btn">Alışverişe Devam Et</button>
           <div className="flex underline text-lg hover:cursor-pointer">

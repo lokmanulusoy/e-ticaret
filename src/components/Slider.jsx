@@ -50,7 +50,7 @@ function Slider() {
                 <div className="des flex flex-col flex-1 place-items-start justify-center ml-11 ">
                   <h2 className="text-[55px]">{slide.content.h2}</h2>
                   <p className="text-[30px]">{slide.content.p}</p>
-                  <button className="btn">Hemen Satın Al</button>
+                  <a href="/categoryPage"><button className="btn">Hemen Satın Al</button></a>
                 </div>
               </div>
             </div>
