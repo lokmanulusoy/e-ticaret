@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/e-ticaret/static/css/main.e41c03d2.css",
-    "main.js": "/e-ticaret/static/js/main.7a2dba64.js",
-    "index.html": "/e-ticaret/index.html",
-    "main.e41c03d2.css.map": "/e-ticaret/static/css/main.e41c03d2.css.map",
-    "main.7a2dba64.js.map": "/e-ticaret/static/js/main.7a2dba64.js.map"
+    "main.css": "/static/css/main.e41c03d2.css",
+    "main.js": "/static/js/main.7a2dba64.js",
+    "index.html": "/index.html",
+    "main.e41c03d2.css.map": "/static/css/main.e41c03d2.css.map",
+    "main.7a2dba64.js.map": "/static/js/main.7a2dba64.js.map"
   },
   "entrypoints": [
     "static/css/main.e41c03d2.css",
